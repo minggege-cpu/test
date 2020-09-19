@@ -1,2 +1,6 @@
 这是一个test文件
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+这是dev分支
+>>>>>>> dev
